@@ -12,9 +12,7 @@ This is a full-stack **MERN (MongoDB, Express, React, Node.js)** web application
 * MongoDB (Database)
 
 ##  Project Structure
-
-### 🔹 Frontend
-
+###🔹 Frontend
 frontend/
 │
 ├── public/
@@ -25,7 +23,7 @@ frontend/
 │   ├── reusable_components/
 │   ├── components/
 │   └── utils/
-```
+
 
 ### 🔹 Backend
 
