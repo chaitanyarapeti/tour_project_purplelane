@@ -3,16 +3,19 @@
 ## Project Overview
 
 This is a full-stack **MERN (MongoDB, Express, React, Node.js)** web application developed as part of a workshop. The project demonstrates a structured implementation of frontend and backend with proper separation of concerns.
-
-## Technologies Used
+---
+##  Technologies Used
 
 * React.js (Frontend)
 * Node.js (Backend)
 * Express.js (Server Framework)
 * MongoDB (Database)
-
+---
 ##  Project Structure
-###🔹 Frontend
+
+### 🔹 Frontend
+
+```
 frontend/
 │
 ├── public/
@@ -23,10 +26,13 @@ frontend/
 │   ├── reusable_components/
 │   ├── components/
 │   └── utils/
+```
 
+---
 
 ### 🔹 Backend
 
+```
 backend/
 │
 ├── config/
@@ -37,6 +43,9 @@ backend/
 │   └── routes/
 └── view/
 ```
+
+---
+
 ## Features
 
 * Structured MERN architecture
@@ -44,11 +53,15 @@ backend/
 * Reusable components
 * API-based communication
 
-##  My Contribution
+---
+
+## My Contribution
 
 * Worked on project setup and structure
 * Developed frontend components
 * Assisted in backend integration
+
+---
 
 ## GitHub Repository
 
